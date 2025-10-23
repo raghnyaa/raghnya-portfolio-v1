@@ -10,6 +10,7 @@ import { DuPontPage } from './components/DuPontPage';
 import { AarohaPage } from './components/AarohaPage';
 import { ShaktiVikasaPage } from './components/ShaktiVikasaPage';
 import { MovementPage } from './components/MovementPage';
+import { Analytics } from "@vercel/analytics/next"
 
 export default function App() {
   const [showHomepage, setShowHomepage] = useState(false);
