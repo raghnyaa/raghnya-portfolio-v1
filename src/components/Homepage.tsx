@@ -335,7 +335,7 @@ export function Homepage({ onNavigate }: HomepageProps) {
                   <span>Operations & Analytics</span>
                   <span>👩🏽‍💻</span>
                 </span>
-                {/* Pulsating aura */}
+                {/* Pulsating aura 
                 <motion.div
                   className="absolute inset-0 rounded-sm"
                   style={{ background: '#2C2622' }}
